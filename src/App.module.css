@@ -1,0 +1,15 @@
+.App {
+  background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+  font-family: Arial, Helvetica, sans-serif;
+  min-height: 100vh;
+  max-width: 100%;
+}
+
+.Body{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+
+
